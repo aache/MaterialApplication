@@ -23,14 +23,10 @@
               "src/assets"
             ],
             "styles": [
-              
-              "src/dashboard-styles.css",
-              "src/styles.css" , 
-              "src/google-font-styles.css",
-              "src/material.css"
+              "src/styles.css" 
             ],
             "scripts": [
-              "src/material.js"
+             
             ]
           },
           "configurations": {
